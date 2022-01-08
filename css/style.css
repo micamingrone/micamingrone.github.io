@@ -127,3 +127,11 @@ header > h1{
     transition: all 0.4s ease ;
     cursor: pointer;
 }
+
+.cp{
+    text-align: center;
+    color: white;
+    font-family:'Passion One', cursive;  
+    font-size: 0.8em;
+    margin-top: 25px;
+}
